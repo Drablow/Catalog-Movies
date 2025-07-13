@@ -10,7 +10,7 @@ Right click 'catalog-movie' -> Mark Directory -> Sources root
 
 Got to workdir:
 ```shell
-cd url-shortener
+cd catalog-movie
 ```
 
 ```shell
